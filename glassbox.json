@@ -1,0 +1,105 @@
+{
+  "slug": "liverclear",
+  "box": 37,
+  "date": "2026-10-17",
+  "title": "LiverClear",
+  "question": "How does the liver work?",
+  "hook": "Your liver gets blood from two pipes, stores your sugar overnight, turns poison into waste and can grow back after most of it is removed. Zoom from the whole organ into its tiny hexagons and watch blood and bile flow opposite ways.",
+  "thumbText": "HOW THE LIVER WORKS",
+  "field": "body",
+  "minutes": 15,
+  "tags": [
+    "liver",
+    "digestion",
+    "metabolism",
+    "glycogen",
+    "bile",
+    "hepatitis",
+    "human body",
+    "biology",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Two blood supplies",
+      "text": "The liver is the largest organ inside you, about 1.2 to 1.5 kg, under your right ribs. About three-quarters of its blood comes straight from the gut through the portal vein, and a quarter fresh from the heart through the hepatic artery: about 1.35 litres a minute in all, roughly a quarter of the heart's output."
+    },
+    {
+      "title": "100,000 tiny hexagons",
+      "text": "The liver is built from 50,000 to 100,000 six-sided lobules, 1 to 2 mm across. Blood trickles in from the corners to a central vein, past plates of liver cells, while bile flows the other way to the corners. Kupffer cells in the channels catch almost every bacterium from the gut."
+    },
+    {
+      "title": "The sugar bank",
+      "text": "After meals, insulin tells the liver to store glucose as glycogen, up to about 100 g. Between meals and overnight, glucagon tells it to release glucose and make new glucose, keeping blood sugar steady at about 70 to 140 mg/dL. It also makes albumin, clotting factors and cholesterol."
+    },
+    {
+      "title": "Cleaning the blood",
+      "text": "The liver turns toxic ammonia into urea for the kidneys to remove, breaks down medicines and alcohol at a roughly steady pace that no trick can speed up, and turns the pigment of old red blood cells into bilirubin, which leaves in bile. If bile backs up, skin and eyes turn yellow: jaundice."
+    },
+    {
+      "title": "Bile breaks up fat",
+      "text": "The liver makes about half a litre to a litre of bile a day. The gallbladder stores and concentrates it, then squeezes it into the gut after a meal. Bile salts split fat into droplets smaller than a thousandth of a millimetre, giving digestive enzymes up to 1,000 times more surface."
+    },
+    {
+      "title": "Regrowing and going wrong",
+      "text": "Up to about 70% of a liver can be removed and the rest grows back to about full size in two to three months, which makes living-donor transplants possible. Fatty liver affects about 3 in 10 adults, hepatitis B and C viruses infect hundreds of millions, and years of damage can end in cirrhosis. For your own liver, talk to a doctor."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Portal vein",
+      "def": "The vein that brings blood from the stomach, intestines and spleen to the liver, about three-quarters of its supply."
+    },
+    {
+      "term": "Hepatic artery",
+      "def": "The artery that brings oxygen-rich blood to the liver, about a quarter of its supply."
+    },
+    {
+      "term": "Lobule",
+      "def": "A tiny six-sided unit of the liver, 1 to 2 mm across, with portal triads at its corners and a central vein in the middle."
+    },
+    {
+      "term": "Hepatocyte",
+      "def": "The main liver cell, which stores sugar, builds proteins, makes bile and breaks down toxins."
+    },
+    {
+      "term": "Glycogen",
+      "def": "A branching chain of glucose units: the liver's store of sugar, up to about 100 g."
+    },
+    {
+      "term": "Insulin and glucagon",
+      "def": "Hormones from the pancreas: insulin tells the liver to store glucose, glucagon tells it to release glucose."
+    },
+    {
+      "term": "Urea cycle",
+      "def": "A loop of reactions in liver cells that turns toxic ammonia into harmless urea."
+    },
+    {
+      "term": "Bile",
+      "def": "A yellow-green liquid made by the liver. Its bile salts break fat into tiny droplets so it can be digested."
+    },
+    {
+      "term": "Cirrhosis",
+      "def": "Severe, lasting scarring of the liver after years of damage, which stops it working well."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "liverclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

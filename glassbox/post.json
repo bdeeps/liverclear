@@ -1,0 +1,126 @@
+{
+  "slug": "liverclear",
+  "box": 37,
+  "question": "How does the liver work?",
+  "url": "https://glassbox-production-fd52.up.railway.app/e/liverclear/",
+  "app": "https://glassbox-production-fd52.up.railway.app/liverclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "4,000 years from clay livers used to read the future to pills that cure hepatitis C and livers that regrow after being shared.\n\n1750 BCE: A clay liver for training priests\n700 BCE: The liver that grew back\n1833: The liver is made of tiny six-sided units\n1848: The liver makes sugar\n1932: The urea cycle: poison into waste\n1965: A clue in the blood: hepatitis B\n\nThe full story, with 29 moments, sources and charts: glassbox-production-fd52.up.railway.app/e/liverclear/history (link in bio)\n\nThen play with how it works: glassbox-production-fd52.up.railway.app/liverclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #liver #digestion #metabolism #glycogen #bile #hepatitis #history",
+      "youtube": {
+        "title": "The history of understanding the liver in 45 seconds #shorts",
+        "description": "4,000 years from clay livers used to read the future to pills that cure hepatitis C and livers that regrow after being shared.\n\n1750 BCE · A clay liver for training priests (Babylonian diviners (bārû priests))\n700 BCE · The liver that grew back (Hesiod (poet))\n1833 · The liver is made of tiny six-sided units (Francis Kiernan)\n1848 · The liver makes sugar (Claude Bernard)\n1932 · The urea cycle: poison into waste (Hans Krebs and Kurt Henseleit)\n1965 · A clue in the blood: hepatitis B (Baruch Blumberg)\n\n▶ Full history: https://glassbox-production-fd52.up.railway.app/e/liverclear/history/\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/liverclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How does the liver work?\n\nYour liver gets blood from two pipes, stores your sugar overnight, turns poison into waste and can grow back after most of it is removed. Zoom from the whole organ into its tiny hexagons and watch blood and bile flow opposite ways.\n\n→ Your liver is the biggest organ inside you: about 1.5 kg, tucked under your right ribs.\n→ It gets blood twice: three-quarters straight from your gut, a quarter fresh from the heart.\n→ Zoom in: the liver is built from about 100,000 tiny hexagons called lobules.\n→ Blood flows in to the middle, bile flows out to the corners, and germ-eating cells stand guard.\n→ The liver is your sugar bank: it stores glucose after meals and pays it back between them.\n\nPlay with it yourself. It's free and open source: glassbox-production-fd52.up.railway.app/liverclear (link in bio)\n\nBox No. 037 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #liver #digestion #metabolism #glycogen #bile #hepatitis #humanbody #biology #threejs",
+    "carousel": "Swipe through: How does the liver work?\n\nYour liver gets blood from two pipes, stores your sugar overnight, turns poison into waste and can grow back after most of it is removed. Zoom from the whole organ into its tiny hexagons and watch blood and bile flow opposite ways.\n\nSave this for later, then play with the interactive version at glassbox-production-fd52.up.railway.app/liverclear (link in bio).\n\nBox No. 037 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #liver #digestion #metabolism #glycogen #bile #hepatitis",
+    "youtube": {
+      "title": "How does the liver work? #shorts",
+      "description": "Your liver gets blood from two pipes, stores your sugar overnight, turns poison into waste and can grow back after most of it is removed. Zoom from the whole organ into its tiny hexagons and watch blood and bile flow opposite ways.\n\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/liverclear/\n⌘ Source code (MIT): https://github.com/bdeeps/liverclear\n\nBox No. 037 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How does the liver work? (interactive explainer)",
+      "description": "Your liver gets blood from two pipes, stores your sugar overnight, turns poison into waste and can grow back after most of it is removed. Zoom from the whole organ into its tiny hexagons and watch blood and bile flow opposite ways.\n\n▶ Play with the interactive version: https://glassbox-production-fd52.up.railway.app/e/liverclear/\n⌘ Source code (MIT): https://github.com/bdeeps/liverclear\n\nIn this video:\n• Two blood supplies. The liver is the largest organ inside you, about 1.2 to 1.5 kg, under your right ribs.\n• 100,000 tiny hexagons. The liver is built from 50,000 to 100,000 six-sided lobules, 1 to 2 mm across.\n• The sugar bank. After meals, insulin tells the liver to store glucose as glycogen, up to about 100 g.\n• Cleaning the blood. The liver turns toxic ammonia into urea for the kidneys to remove, breaks down medicines and alcohol at a roughly steady pace that no trick can speed up, and turns the pigment of old red blood cells into bilirubin, which leaves in bile.\n• Bile breaks up fat. The liver makes about half a litre to a litre of bile a day.\n• Regrowing and going wrong. Up to about 70% of a liver can be removed and the rest grows back to about full size in two to three months, which makes living-donor transplants possible.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How does the liver work?\n\nYour liver gets blood from two pipes, stores your sugar overnight, turns poison into waste and can grow back after most of it is removed.\n\nPlay with it: https://glassbox-production-fd52.up.railway.app/e/liverclear/",
+    "linkedin": "How does the liver work?\n\nYour liver gets blood from two pipes, stores your sugar overnight, turns poison into waste and can grow back after most of it is removed. Zoom from the whole organ into its tiny hexagons and watch blood and bile flow opposite ways.\n\n1. Two blood supplies\n2. 100,000 tiny hexagons\n3. The sugar bank\n4. Cleaning the blood\n5. Bile breaks up fat\n6. Regrowing and going wrong\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 037 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox-production-fd52.up.railway.app/e/liverclear/\nCode: https://github.com/bdeeps/liverclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-09-28T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-09-27T14:26:27.674Z"
+}
